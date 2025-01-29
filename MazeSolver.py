@@ -41,4 +41,5 @@ def main():
     
     find_exit(graph, 2, 5)
 
-main()
+if __name__=="__main__":
+    main()
