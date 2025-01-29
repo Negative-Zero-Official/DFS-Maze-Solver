@@ -3,7 +3,6 @@ def find_exit(graph, start, finish):
         visited.add(node)
         path.append(node)
         if node == finish:
-            print(f"Found path to exit: {path}")
             print(f"Found path to exit: {' -> '.join(str(i) for i in path)}")
             return
         for neighbor in graph[node]:
