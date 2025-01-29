@@ -4,7 +4,7 @@ This Python program finds a path from a start node to a finish node in a maze, r
 
 ## How to Use
 
-1. Represent the graph in an Adjacency List (hard-coded in this project, you can edit the code to represent your maze.)
+1. Represent the graph in an Adjacency List (hard-coded in this project, you can edit the code to represent your maze).
 2. Save the `MazeSolver.py` file.
 3. Run the program!  
 It's that simple.
